@@ -5,5 +5,5 @@ This is a python script that enables you to download a youtube video using a GUI
   <li> <strong>Tkinter</strong>: the standard Python interface to the Tcl/Tk GUI toolkit.
   <li> <strong>Pytybe</strong>: a lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos. 
 </ul>
-![Screenshot](screenshot.png)
+<img src="screenshot.png" alt="Youtube video downloader" width=50%>
    
